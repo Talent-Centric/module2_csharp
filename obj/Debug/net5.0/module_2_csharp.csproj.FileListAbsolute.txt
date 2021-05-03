@@ -1,0 +1,16 @@
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\bin\Debug\net5.0\module_2_csharp.exe
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\bin\Debug\net5.0\module_2_csharp.deps.json
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\bin\Debug\net5.0\module_2_csharp.runtimeconfig.json
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\bin\Debug\net5.0\module_2_csharp.runtimeconfig.dev.json
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\bin\Debug\net5.0\module_2_csharp.dll
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\bin\Debug\net5.0\ref\module_2_csharp.dll
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\bin\Debug\net5.0\module_2_csharp.pdb
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.csprojAssemblyReference.cache
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.AssemblyInfoInputs.cache
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.AssemblyInfo.cs
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.dll
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\ref\module_2_csharp.dll
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.pdb
+C:\Users\Leaderruvuna\Desktop\CodeImpact\dotnet\module_2_csharp\obj\Debug\net5.0\module_2_csharp.genruntimeconfig.cache
